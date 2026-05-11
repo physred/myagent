@@ -4,8 +4,6 @@ __pycache__/
 workspace/sessions/
 workspace/MEMORY.md
 workspace/hook.log
-workspace/tomato_*.txt
-workspace/test.txt
 *.egg-info/
 dist/
 build/
